@@ -34,7 +34,9 @@
 - Spot bots, sleepers, and display their details.
 - Reveal boxes around players, skeletons, and team IDs.
 - Display health, inventory, held weapons, and more.
+
 ![Good Games Logo]([https://i.imgur.com/amUOURm.jpg)
+
 ### Unlock Exclusive Features:
 
 - Traverse the game world with Spiderman, Roll Building, and AntiAim.
