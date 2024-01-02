@@ -2,7 +2,7 @@
 
 ![Good Games Logo](https://i.imgur.com/4TW8J9m.png)
 
-## Description ![Good Games Logo](https://i.imgur.com/TRAZCzZ.png)
+## Description
 
 **Explore the Gaming Universe with GooD Games!** 🚀
 
@@ -53,6 +53,8 @@
 ### Welcome to "Good Games Solutions" - Elevating Your Gaming Experience! 
 
 At "Good Games Solutions," we are more than just a gaming software provider – we are your dedicated partner in the ever-evolving world of gaming. Our mission is to bring innovation, excitement, and security to your virtual adventures.
+
+![Good Games Logo](https://i.imgur.com/TRAZCzZ.png)
 
 ### Our Offerings: 
 
