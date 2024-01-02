@@ -50,11 +50,9 @@
 - Customize player, bot, resource, and miscellaneous draw colors.
 - Modify ESP block highlight distance and other visual aspects.
 
-### Welcome to "Good Games Solutions" - Elevating Your Gaming Experience! 
+### Welcome to ![Good Games Logo](https://i.imgur.com/TRAZCzZ.png) Solutions - Elevating Your Gaming Experience! 
 
 At "Good Games Solutions," we are more than just a gaming software provider – we are your dedicated partner in the ever-evolving world of gaming. Our mission is to bring innovation, excitement, and security to your virtual adventures.
-
-![Good Games Logo](https://i.imgur.com/TRAZCzZ.png)
 
 ### Our Offerings: 
 
