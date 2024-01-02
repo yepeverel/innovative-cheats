@@ -1,6 +1,6 @@
 # Good Games - Your Gateway to Gaming Excellence! 🎮🚀
 
-![Good Games Logo](https://i.imgur.com/WzM3DnN.png)
+![Good Games Logo](https://i.imgur.com/3GOsQpG.png)
 
 ## Description
 
